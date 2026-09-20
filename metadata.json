@@ -1,0 +1,6 @@
+{
+  "name": "Podkarpacka FEST Kapela",
+  "description": "Oficjalna strona tradycyjnej kapeli ludowej Podkarpacka FEST Kapela z Podkarpacia. Koncerty, wesela, biesiady, jubileusze, spotkania opłatkowe i kolędowanie.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
